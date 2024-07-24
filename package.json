@@ -46,7 +46,9 @@
     "gulp-util": "^3.0.8",
     "mocha": "8.x.x",
     "should": "13.x.x",
-    "underscore.string": "latest"
+    "underscore.string": "latest",
+    "commander": "^6.1.0",
+    "glob": "^7.1.6"
   },
   "keywords": [
     "json",
@@ -57,8 +59,6 @@
     "dot"
   ],
   "dependencies": {
-    "commander": "^6.1.0",
-    "glob": "^7.1.6"
   },
   "packageManager": "yarn@4.1.1"
 }
